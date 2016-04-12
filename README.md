@@ -1,0 +1,2 @@
+# hello_jenkins_AS
+仅仅是一个jenkins配置的Android项目测试
